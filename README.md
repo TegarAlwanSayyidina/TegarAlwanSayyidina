@@ -25,15 +25,15 @@
 <h2>Connect with Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/YourLinkedInProfile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
   </a>
   <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@YourTwitterHandle-blue" alt="Twitter">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" width="30" height="30">
   </a>
   <a href="https://www.instagram.com/YourInstagramHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@YourInstagramHandle-purple" alt="Instagram">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="30" height="30">
   </a>
   <a href="https://www.facebook.com/YourFacebookProfile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-YourFacebookProfile-blue" alt="Facebook">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" width="30" height="30">
   </a>
 </p>

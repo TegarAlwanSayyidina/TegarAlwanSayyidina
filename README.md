@@ -24,7 +24,7 @@
 
 <h2>Connect with Me</h2>
 <p>
-  <a href="https://www.linkedin.com/in/YourLinkedInProfile/" target="_blank">
+  <a href="https://www.linkedin.com/in/YourLinkedInProfile/" target="_white">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
   </a>
   <a href="https://twitter.com/YourTwitterHandle" target="_blank">

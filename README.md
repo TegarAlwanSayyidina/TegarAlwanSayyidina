@@ -22,11 +22,6 @@
   <li><a href="Link to Project 3">Project 3</a> - Brief description of Project 3</li>
 </ul>
 
-<h2>GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="Your GitHub stats">
-</p>
-
 <h2>Connect with Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/YourLinkedInProfile/">LinkedIn</a> |

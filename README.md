@@ -1,39 +1,19 @@
-<h1>Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi 👋, I'm Tegar Alwan Sayyidina Hk</h1>
+<h3 align="center">A passionate Backend developer from Smk Wikrama Bogor</h3>
 
-<p>I am a student at [Your School Name], currently studying [Your Field of Study]. I have a strong interest in [Your Interests, e.g., web development, programming, robotics, etc.]. I enjoy working on projects that help me learn and grow my skills.</p>
+- 🔭 I’m currently working on [Apotek](https://github.com/TegarAlwanSayyidina/apotek-app)
 
-<ul>
-  <li>🌱 I’m currently learning [Your Current Learning Focus, e.g., JavaScript, Python, web development, etc.]</li>
-  <li>👯 I’m looking to collaborate on [Projects or Areas you want to collaborate on, e.g., open source projects, school projects, etc.]</li>
-  <li>📫 How to reach me: [Your Email or Other Contact Information]</li>
-</ul>
+- 👯 I’m looking to collaborate on [Inventaris](https://github.com/TegarAlwanSayyidina/react-lumen)
 
-<h2>Skills</h2>
-<ul>
-  <li><strong>Languages:</strong> [Languages you know, e.g., HTML, CSS, JavaScript]</li>
-  <li><strong>Tools:</strong> [Tools you frequently use, e.g., Git, Visual Studio Code]</li>
-  <li><strong>Other Skills:</strong> [Other relevant skills, e.g., problem-solving, teamwork]</li>
-</ul>
+- 🤝 I’m looking for help with [Inventaris](https://github.com/TegarAlwanSayyidina/Api-lumen)
 
-<h2>Projects</h2>
-<ul>
-  <li><a href="Link to Project 1">Project 1</a> - Brief description of Project 1</li>
-  <li><a href="Link to Project 2">Project 2</a> - Brief description of Project 2</li>
-  <li><a href="Link to Project 3">Project 3</a> - Brief description of Project 3</li>
-</ul>
+- 📫 How to reach me **tegaralwansayyidina@gmail.com**
 
-<h2>Connect with Me</h2>
-<p>
-  <a href="https://www.linkedin.com/in/YourLinkedInProfile/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
-  </a>
-  <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30">
-  </a>
-  <a href="https://www.instagram.com/YourInstagramHandle" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30">
-  </a>
-  <a href="https://www.facebook.com/YourFacebookProfile" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30">
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/tashk15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tashk15" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@tashk15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tashk15" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>

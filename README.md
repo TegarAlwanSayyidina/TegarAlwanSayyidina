@@ -22,13 +22,18 @@
   <li><a href="Link to Project 3">Project 3</a> - Brief description of Project 3</li>
 </ul>
 
-<h2>GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="Your GitHub stats">
-</p>
-
 <h2>Connect with Me</h2>
 <p>
-  <a href="https://www.linkedin.com/in/YourLinkedInProfile/">LinkedIn</a> |
-  <a href="https://twitter.com/YourTwitterHandle">Twitter</a>
+  <a href="https://www.linkedin.com/in/YourLinkedInProfile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/YourTwitterHandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@YourTwitterHandle-blue" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/YourInstagramHandle" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@YourInstagramHandle-purple" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/YourFacebookProfile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-YourFacebookProfile-blue" alt="Facebook">
+  </a>
 </p>

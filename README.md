@@ -24,16 +24,16 @@
 
 <h2>Connect with Me</h2>
 <p>
-  <a href="https://www.linkedin.com/in/YourLinkedInProfile/" target="_white">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
+  <a href="https://www.linkedin.com/in/YourLinkedInProfile/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
   </a>
   <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" width="30" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30">
   </a>
   <a href="https://www.instagram.com/YourInstagramHandle" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="30" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30">
   </a>
   <a href="https://www.facebook.com/YourFacebookProfile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" width="30" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30">
   </a>
 </p>
